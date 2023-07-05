@@ -21,6 +21,7 @@ In this data project, I focused on exploratory data analysis of stock prices of 
 * Map distribution returns of the bank (analysis of stock volatility) 
 * Calculate the 30-day moving average and compare it to the actual stock price using a line plot
 * Create HeapMaps to determine if any correlations exists between each bank stock
+![Alt text](30-day-avg-graph.png)
 
 ## Following libraries used:
 * NumPy
