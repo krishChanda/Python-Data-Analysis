@@ -22,7 +22,7 @@ DataSet Catagories:
 In this data project, I focused on exploratory data analysis of stock prices of various banks in the past decade in order to:
 * Map distribution returns of the bank (analysis of stock volatility) 
 * Calculate the 30-day moving average and compare it to the actual stock price using a line plot
-* Create HeapMaps to determine if any correlations exists between each bank stock
+* Create HeapMaps to determine if any correlations exist between each bank stock
 
 ![30-Day-Avg Table](images/30-day-avg-graph.png)
 
