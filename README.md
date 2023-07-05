@@ -5,6 +5,8 @@ In these two capstone projects, I use real-world datasets to conduct exploratory
 ## 911 Calls Data Project:
 Using a dataset of 911 call records from Kraggle, I compare the different types of emergencies as well as the date(by month & year) in order to graph the information to get a better understanding of 911 call history and trends in the dataset.
 
+![frequency Table](images/EmergencyType-Frequency.png)
+
 DataSet Catagories:
 * lat : String variable, Latitude
 * lng: String variable, Longitude
@@ -22,7 +24,7 @@ In this data project, I focused on exploratory data analysis of stock prices of 
 * Calculate the 30-day moving average and compare it to the actual stock price using a line plot
 * Create HeapMaps to determine if any correlations exists between each bank stock
 
-![Alt text](images/30-day-avg-graph.png)
+![30-Day-Avg Table](images/30-day-avg-graph.png)
 
 ## Following libraries used:
 * NumPy
